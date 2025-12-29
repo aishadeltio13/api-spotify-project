@@ -85,4 +85,5 @@ Cuando tú haces **POST /notas** en Postman, ocurre esta cadena de eventos en mi
 2. **Escalabilidad:** Se podría tener 5 contenedores de música si tenemos muchos usuarios, sin tocar la base de datos.
 3. **Orden:** Si falla Spotify, no pierdes tus notas. Si se borra la base de datos, no pierdes la conexión con Spotify.
 
+![Seguridad](seguridad.png)
 ![PostMan](postman.png)
